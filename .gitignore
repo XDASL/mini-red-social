@@ -3,9 +3,6 @@ venv/
 env/
 .venv/
 
-# Credenciales y secretos
-.env
-
 # Archivos compilados de Python
 __pycache__/
 *.pyc
